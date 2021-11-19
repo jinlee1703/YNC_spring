@@ -1,4 +1,4 @@
-*.java linguist-detectable=true
-*.jsp linguist-detectable=true
-*.xml linguist-detectable=true
-*.html linguist-detectable=false
+* linguist-vendored
+*.java linguist-vendored=false
+*.jsp linguist-vendored=false
+*.xml linguist-vendored=false
