@@ -1,0 +1,5 @@
+* linguist-vendored
+*.java linguist-vendored=false
+*.xml linguist-vendored=false
+*.jsp linguist-vendored=false
+*.java linguist-vendored=false
